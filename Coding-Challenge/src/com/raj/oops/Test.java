@@ -20,6 +20,7 @@ public class Test {
 		Method method[] = c1.getDeclaredMethods();
 		for (Method method2 : method) {
 			System.out.println("Methods " + method2);
+			System.out.println("Methods " + method2);
 		}
 		Field fields[] = c1.getDeclaredFields();
 		for (Field field : fields) {
